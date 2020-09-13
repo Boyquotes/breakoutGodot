@@ -1,0 +1,6 @@
+C:\gamedev\breakout\.mono\temp\bin\Debug\breakout.dll
+C:\gamedev\breakout\.mono\temp\bin\Debug\breakout.pdb
+C:\gamedev\breakout\.mono\temp\obj\Debug\breakout.csprojAssemblyReference.cache
+C:\gamedev\breakout\.mono\temp\obj\Debug\breakout.csproj.CoreCompileInputs.cache
+C:\gamedev\breakout\.mono\temp\obj\Debug\breakout.dll
+C:\gamedev\breakout\.mono\temp\obj\Debug\breakout.pdb
